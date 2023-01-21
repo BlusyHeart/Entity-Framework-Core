@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FotballBetting.Data
-build_property.ProjectDir = C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FotballBetting.Data\
+build_property.ProjectDir = C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\Football Betting\FotballBetting.Data\

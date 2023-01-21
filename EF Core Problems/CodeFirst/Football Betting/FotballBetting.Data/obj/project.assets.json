@@ -1155,29 +1155,6 @@
             "rid": "win"
           }
         }
-      },
-      "FootballBetting.Data.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/FootballBetting.Data.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FootballBetting.Data.Common.dll": {}
-        }
-      },
-      "FootballBetting.Data.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FootballBetting.Data.Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/FootballBetting.Data.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FootballBetting.Data.Models.dll": {}
-        }
       }
     }
   },
@@ -3523,22 +3500,12 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "FootballBetting.Data.Common/1.0.0": {
-      "type": "project",
-      "path": "../FootballBetting.Data.Common/FootballBetting.Data.Common.csproj",
-      "msbuildProject": "../FootballBetting.Data.Common/FootballBetting.Data.Common.csproj"
-    },
-    "FootballBetting.Data.Models/1.0.0": {
-      "type": "project",
-      "path": "../FootballBetting.Data.Models/FootballBetting.Data.Models.csproj",
-      "msbuildProject": "../FootballBetting.Data.Models/FootballBetting.Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FootballBetting.Data.Common >= 1.0.0",
-      "FootballBetting.Data.Models >= 1.0.0",
+      "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj",
+      "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.2"
@@ -3550,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FotballBetting.Data\\FotballBetting.Data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FotballBetting.Data\\FotballBetting.Data.csproj",
       "projectName": "FotballBetting.Data",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FotballBetting.Data\\FotballBetting.Data.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FotballBetting.Data\\FotballBetting.Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FotballBetting.Data\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FotballBetting.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3571,11 +3538,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj"
             },
-            "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\ConsoleApp1\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj"
             }
           }
         }
@@ -3626,5 +3593,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Common\\FootballBetting.Data.Common.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\User\\Documents\\GitHub\\Entity-Framework-Core\\EF Core Problems\\CodeFirst\\Football Betting\\FootballBetting.Data.Models\\FootballBetting.Data.Models.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
