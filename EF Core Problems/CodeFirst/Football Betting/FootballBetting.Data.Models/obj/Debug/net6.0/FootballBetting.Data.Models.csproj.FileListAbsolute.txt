@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\bin\Debug\net6.0\FootballBetting.Data.Models.deps.json
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\bin\Debug\net6.0\FootballBetting.Data.Models.dll
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\bin\Debug\net6.0\FootballBetting.Data.Models.pdb
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\bin\Debug\net6.0\FootballBetting.Data.Common.dll
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\bin\Debug\net6.0\FootballBetting.Data.Common.pdb
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.dll
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\refint\FootballBetting.Data.Models.dll
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\FootballBetting.Data.Models.pdb
+C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\ConsoleApp1\FootballBetting.Data.Models\obj\Debug\net6.0\ref\FootballBetting.Data.Models.dll

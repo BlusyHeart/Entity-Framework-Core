@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FootballBetting.Data.Models/1.0.0": {
+        "dependencies": {
+          "FootballBetting.Data.Common": "1.0.0"
+        },
+        "runtime": {
+          "FootballBetting.Data.Models.dll": {}
+        }
+      },
+      "FootballBetting.Data.Common/1.0.0": {
+        "runtime": {
+          "FootballBetting.Data.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootballBetting.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootballBetting.Data.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
