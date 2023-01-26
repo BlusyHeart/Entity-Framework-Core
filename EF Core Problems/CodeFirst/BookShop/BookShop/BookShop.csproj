@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\BookShop.cs" Link="BookShop.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Z.EntityFramework.Plus.EFCore" Version="7.18.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookShop.Data\BookShop.Data.csproj" />
+    <ProjectReference Include="..\BookShop.Initializer\BookShop.Initializer.csproj" />
+    <ProjectReference Include="..\BookShop.Models\BookShop.Models.csproj" />
+  </ItemGroup>
+
+</Project>
