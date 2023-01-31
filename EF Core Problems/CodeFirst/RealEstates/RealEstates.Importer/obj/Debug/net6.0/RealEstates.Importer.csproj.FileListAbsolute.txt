@@ -1,5 +1,0 @@
-C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.csproj.AssemblyReference.cache
-C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.AssemblyInfoInputs.cache
-C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.AssemblyInfo.cs
-C:\Users\User\Documents\GitHub\Entity-Framework-Core\EF Core Problems\CodeFirst\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.csproj.CoreCompileInputs.cache
