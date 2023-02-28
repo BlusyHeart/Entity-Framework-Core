@@ -1,17 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SoftUni;
-
-public partial class Address
+namespace SoftUni.Models
 {
-    public int AddressId { get; set; }
+    public class Address
+    {
+        public Address()
+        {
+            Employees = new HashSet<Employee>();
+        }
 
-    public string AddressText { get; set; } = null!;
+        public int AddressId { get; set; }
 
-    public int? TownId { get; set; }
+        public string AddressText { get; set; } = null!;
 
-    public virtual ICollection<Employee> Employees { get; } = new List<Employee>();
+        public int? TownId { get; set; }
 
-    public virtual Town? Town { get; set; }
+        public virtual Town? Town { get; set; }
+
+        public virtual ICollection<Employee> Employees { get; set; }
+    }
 }

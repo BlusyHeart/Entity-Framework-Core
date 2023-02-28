@@ -1,19 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SoftUni;
-
-public partial class Project
+namespace SoftUni.Models
 {
-    public int ProjectId { get; set; }
+    public class Project
+    {
+        public Project()
+        {
+            EmployeesProjects = new HashSet<EmployeeProject>();
+        }
 
-    public string Name { get; set; } = null!;
+        public int ProjectId { get; set; }
 
-    public string? Description { get; set; }
+        public string Name { get; set; } = null!;
+        
+        public string? Description { get; set; }
 
-    public DateTime StartDate { get; set; }
+        public DateTime StartDate { get; set; }
 
-    public DateTime? EndDate { get; set; }
+        public DateTime? EndDate { get; set; }
 
-    public virtual ICollection<Employee> Employees { get; } = new List<Employee>();
+        public virtual ICollection<EmployeeProject> EmployeesProjects { get; set; }
+    }
 }

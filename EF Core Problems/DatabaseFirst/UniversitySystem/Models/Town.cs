@@ -1,13 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace SoftUni;
-
-public partial class Town
+﻿namespace SoftUni.Models
 {
-    public int TownId { get; set; }
+    public class Town
+    {
+        public Town()
+        {
+            Addresses = new HashSet<Address>();
+        }
 
-    public string Name { get; set; } = null!;
+        public int TownId { get; set; }
 
-    public virtual ICollection<Address> Addresses { get; } = new List<Address>();
+        public string Name { get; set; } = null!;
+
+        public virtual ICollection<Address> Addresses { get; set; }
+    }
 }
